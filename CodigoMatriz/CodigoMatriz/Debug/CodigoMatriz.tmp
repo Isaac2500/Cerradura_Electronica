@@ -1,0 +1,49 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\Debug\CodigoMatriz.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>CodigoMatriz.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>CodigoMatriz.map</FILE>
+  <FILE>CodigoMatriz.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>35</LINE></INICIO>
+  <RETRASO><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>19</LINE></RETRASO>
+  <RETRASO0><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>20</LINE></RETRASO0>
+  <RETRASO1><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>21</LINE></RETRASO1>
+  <RETRASO2><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>22</LINE></RETRASO2>
+  <RETRASO3><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>29</LINE></RETRASO3>
+  <FILA1><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>48</LINE></FILA1>
+  <FILA2><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>78</LINE></FILA2>
+  <F1_COLUMNA1><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>59</LINE></F1_COLUMNA1>
+  <F1_COLUMNA2><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>66</LINE></F1_COLUMNA2>
+  <CIRCUITO><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>164</LINE></CIRCUITO>
+  <F1_COLUMNA3><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>72</LINE></F1_COLUMNA3>
+  <FILA3><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>107</LINE></FILA3>
+  <F2_COLUMNA1><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>89</LINE></F2_COLUMNA1>
+  <F2_COLUMNA2><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>95</LINE></F2_COLUMNA2>
+  <F2_COLUMNA3><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>101</LINE></F2_COLUMNA3>
+  <FILA4><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>136</LINE></FILA4>
+  <F3_COLUMNA1><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>118</LINE></F3_COLUMNA1>
+  <F3_COLUMNA2><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>124</LINE></F3_COLUMNA2>
+  <F3_COLUMNA3><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>130</LINE></F3_COLUMNA3>
+  <F4_COLUMNA1><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>147</LINE></F4_COLUMNA1>
+  <F4_COLUMNA2><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>153</LINE></F4_COLUMNA2>
+  <F4_COLUMNA3><FILE>C:\Users\Isaac\Desktop\8vo semestre\Arquitectura de Computadoras\ProyectoFinal\CodigoMatriz\CodigoMatriz\main.asm</FILE><LINE>159</LINE></F4_COLUMNA3>
+ </LABELS>
+</ASSEMBLER_INFO>
